@@ -36,7 +36,7 @@ h2{
     padding-bottom: 20px;
 }
 
-p{
+.section-heading p{
     color: #444343 ;
     font-size: 13px ;
     font-weight: 340 ;
@@ -51,4 +51,68 @@ button{
     border: none;
     border-radius: 4.25px;
     padding: 18px 22px;
+}
+
+.section-2{
+    width: 911px;
+    display: flex;
+    padding: 111px 273px 0 175px;
+    justify-content: space-between;
+    align-items: center;
+    align-items: center;
+}
+
+.person-image{
+    /* background: url(ff);
+    background: rgba(241, 91, 34, 0.2); */
+    /* width: 447px;
+    height: 447px; */
+    border-radius: 50%;
+}
+.person-image img{
+    width: 390px;
+}
+
+
+.section-2-content{
+    width: 353px;
+    text-align: left;
+}
+.section-2-content h3{
+    color: var(--Dark 01, rgba(21, 20, 20, 1));
+
+font-family: Work Sans;
+font-style: Bold;
+font-size: 34px;
+font-weight: 595;
+line-height: 40px;
+letter-spacing: 0%;
+padding-top: 100px;
+padding-bottom: 20px;
+}
+
+.section-2-content p{
+    color: var(--Dark 02, rgba(68, 67, 67, 1));
+
+font-family: Work Sans;
+font-style: Regular;
+font-size: 13px;
+font-weight: 340;
+line-height: 22px;
+padding-bottom: 13px;
+}
+
+.section-2-content .point p{
+    color: var(--Dark 02, rgba(68, 67, 67, 1));
+
+font-family: Work Sans;
+font-style: Regular;
+font-size: 13px;
+font-weight: 340;
+line-height: 22px;
+padding-bottom: 7px;
+}
+
+.point i {
+    color: rgba(22, 216, 135, 1);
 }
