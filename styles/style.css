@@ -24,4 +24,14 @@ section{
 div{
     width: 446px;
     text-align: right;
+    padding-right: 195px;
+    color: black;
+}
+
+h2{
+    color: #151414;
+    font-size: 55px;
+    font-weight: 595px;
+    line-height: 64px;
+    padding-bottom: 20px;
 }
