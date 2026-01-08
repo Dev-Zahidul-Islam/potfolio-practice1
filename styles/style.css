@@ -35,3 +35,20 @@ h2{
     line-height: 64px;
     padding-bottom: 20px;
 }
+
+p{
+    color: #444343 ;
+    font-size: 13px ;
+    font-weight: 340 ;
+    line-height: 22px;
+    text-align: right;
+    padding-bottom: 27px;
+}
+
+button{
+    background-color: #F15B22;
+    color: #FFFFFF;
+    border: none;
+    border-radius: 4.25px;
+    padding: 18px 22px;
+}
