@@ -204,9 +204,8 @@ padding-bottom: 5px;
 }
 
 .section-4-content{
-    width: 400px;
-    height: 154px;
-    justify-content: end;
+    width: 460px !important;
+    height: 182px;
     text-align: left;
     padding: 50px 616px 50px 54px;
     
@@ -216,11 +215,12 @@ padding-bottom: 5px;
     color: rgba(255, 255, 255, 1);
 
 font-family: Work Sans;
-font-size: 25px;
-font-weight: ;
-line-height: 40px;
+font-size: 34px;
+font-weight: bold ;
+line-height: 50px;
 text-align: left;
 padding-bottom: 20px;
+width: 459px;
 }
 
 
