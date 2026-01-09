@@ -223,5 +223,87 @@ padding-bottom: 20px;
 width: 459px;
 }
 
+/* footer{
+ padding-top: 110px;
+} */
+.footer-section{
+    background-color: black;
+    width: 1350px;
+    height: 490px;
+
+   
+}
+
+.footer-section .footer-container{
+    width: 970px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 110px auto;
+    padding-top: 80px;
 
 
+}
+
+.footer-content{
+    display: flex;
+    color: white;
+    justify-content: space-between;
+    align-items: start;
+    /* margin: 110px auto; */
+}
+
+.content-future{
+    width: 412px !important;
+    padding-right: 281px;}
+
+.content-future p{
+        color: rgba(255, 255, 255, 1);
+
+font-family: Work Sans;
+font-style: Regular;
+font-size: 13px;
+font-weight: 340;
+line-height: 22px;
+letter-spacing: 0%;
+text-align: left;
+padding-top: 16px;
+padding-bottom: 10px;
+}
+
+.content-future .info p{
+  padding-bottom: 0px;
+}
+
+
+.content-form{
+    width: 276px;
+    text-align: left;
+    
+}
+
+.content-future img{
+    padding-top: 28px;
+    width: 40px;
+}
+
+.content-form h3 {
+    padding-bottom: 20px ;
+}
+
+/* .content-form button{
+    padding-top: 20px;
+} */
+
+.content-form input[type="email"]{
+    background-color: transparent;
+    color: white;
+    border-radius: 5px;
+    padding: 10px 10px;
+    outline: none;
+    
+}
+
+.content-form button{
+   margin-top: 20px;
+}
